@@ -1,0 +1,6 @@
+framework module Pods_StockorPort {
+  umbrella header "Pods-StockorPort-umbrella.h"
+
+  export *
+  module * { export * }
+}
